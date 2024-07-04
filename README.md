@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kcabdof
+- 👋 Hi, I’m @jwsxs
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning c# and gml
 - 💞️ I’m looking to collaborate on solo projects
